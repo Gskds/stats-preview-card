@@ -37,7 +37,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-In this fontend mentor challenge I learn the following things: How to arrange a grid element, How to make transparent color cover on image and also I'm able to make a grid columns with auto-fit but I don't get what I want in mobile version (i.e I couldn't make the width of the card right on mobile version but it works for desktop version, I don't now why??? please if someone knows I'm ready to learn .
+In this fontend mentor challenge I learn the following things: How to arrange a grid element, How to make transparent color cover on image and also I'm able to make a grid columns with auto-fit but I don't get what I want in mobile version (i.e I couldn't make the width of the card right on mobile version but it works for desktop version) if someone know why is happening please tell me.
 
 here is the code snippet I use.
 
