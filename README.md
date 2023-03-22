@@ -42,9 +42,10 @@ In this fontend mentor challenge I learn the following things: How to arrange a 
 here is the code snippet I use.
 
 ```css
-.card {
-grid-template-columns:reapet(anto-fit, minmax(min(35rem, 100%), 1fr));
-;
+@media screen and (min-width: 50em){
+  .card {
+     grid-template-columns:reapet(anto-fit, minmax(min(35rem, 100%), 1fr));
+}
 ```
 
 ### Continued development
