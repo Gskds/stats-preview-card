@@ -44,13 +44,13 @@ Here is the code snippet I use.
 ```css
 @media screen and (min-width: 50em){
   .card {
-     grid-template-columns:reapet(anto-fit, minmax(min(35rem, 100%), 1fr));
+     grid-template-columns: reapet(auto-fit, minmax(min(35rem, 100%), 1fr));
 }
 ```
 
 ### Continued development
 
-I solve a couple of fontend mentors challenges. It helps me so much to solidify my knowledge on different topics, but same of the challenges quite hard to solve for me, specially re-creating a full home page. I try a couple of times but I can't do it. I want somebody to tell me how should I approach to do it, and what things should be consider before doing it???
+I solve a couple of fontend mentors challenges. It helps me so much to solidify my knowledge on different topics, but same of the challenges are quite hard to solve, specially re-creating a full home page. I try a couple of times but I can't do it. I would like to know how should I approach such kind of challenges, and what things should be consider before doing it???
 
 ## Author
 
