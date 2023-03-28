@@ -100,9 +100,9 @@ p {
 
 /* Utilities */
 .container {
-  margin: 0 auto;
-  max-width: 80rem;
-  padding: 0 auto;
+  /* margin: 0 auto; */
+  max-width: 110rem;
+  /* padding: 0 auto; */
 }
 
 /* Card */
@@ -142,7 +142,7 @@ p {
 
 @media screen and (min-width: 50em) {
   .card {
-    grid-template-columns: repeat(auto-fit, minmax(min(35rem, 100%), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(40rem, 100%), 1fr));
   }
   
   .card__body {
